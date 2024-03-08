@@ -13,6 +13,9 @@ cultura_space/data
 
 *.pickle
 
+# Vojtěch's data
+ancient_mediterranean/large_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
